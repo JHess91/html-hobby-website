@@ -1,5 +1,6 @@
-# Hobby website using simple HTML
-Created with plain HTML 
+# Hobby website 
+
+Created with plain HTML, CSS, and Javascript
 
 [Click to run demo](https://html-hobby-list.web.app/)
 
